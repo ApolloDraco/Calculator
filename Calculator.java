@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Project1 {
+public class Calculator {
     public static void main(String[] args) {
         char result;
         System.out.println("Selection:\nA) Author Information\nB) Integer Operation\nC) Floating Point Operation\nE) Instructional Information About This Calculator\nX) Exit\n");
